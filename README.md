@@ -3,3 +3,9 @@ I’ve been working on a project that I’m really proud of — a website for Di
 The project is now live and almost finished, but still a work in progress! I’ll be continuing to refine the design, add new features, and improve the user experience along the way.
 This has been a great opportunity to practice web design, front-end development, and building a smooth, responsive interface.
 💻 You can check it out here: https://lnkd.in/dVZ9NFVw
+
+# 🛠 Tech Stack
+- WordPress <br>
+- PHP <br>
+- HTML / CSS / JavaScript <br>
+- WooCommerce <br>
