@@ -11,4 +11,5 @@ This has been a great opportunity to practice web design, front-end development,
 - WooCommerce <br>
 
 # 📹 Preview
+
 https://github.com/makedoniadiskostas/Barbershop-Website/issues/1#issue-3767111580
