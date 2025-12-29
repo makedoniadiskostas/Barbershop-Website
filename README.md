@@ -9,3 +9,5 @@ This has been a great opportunity to practice web design, front-end development,
 - PHP <br>
 - HTML / CSS / JavaScript <br>
 - WooCommerce <br>
+
+# 📹 Preview
