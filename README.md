@@ -12,4 +12,4 @@ This has been a great opportunity to practice web design, front-end development,
 
 # 📹 Preview
 
-https://github.com/makedoniadiskostas/Barbershop-Website/issues/1#issue-3767111580
+https://github.com/user-attachments/assets/c879e77d-400e-4e62-9060-329fc54697f9
